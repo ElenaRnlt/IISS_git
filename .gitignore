@@ -1,0 +1,6 @@
+# Ignorer tous les fichiers markdown
+*.md
+
+# Sauf README.md et LICENSE.md
+!README.md
+!LICENSE.md
